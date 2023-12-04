@@ -30,10 +30,10 @@ class BestemmieService
 
 	public function create($data): bool
 	{
-		if (empty($data->text_)) {
+		if (empty($data->bestemmia)) {
 			return false;
 		}
 
-		return $this->bestemmia->create($data->text_);
+		return $this->bestemmia->create($data->bestemmia);
 	}
 }
