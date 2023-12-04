@@ -10,11 +10,11 @@ class Bestemmia
 	}
 
 
-	public function create($text_)
+	public function create($bestemmia)
 	{
-		$query = "INSERT INTO bestemmie (text_) VALUES (:text_)";
+		$query = "INSERT INTO bestemmie (bestemmia) VALUE (:bestemmia)";
 		$stmt = $this->conn->prepare($query);
-		$stmt->bindParam(":text_", $text_);
+		$stmt->bindParam(":bestemmia", $bestemmia);
 
 		return $stmt->execute();
 	}

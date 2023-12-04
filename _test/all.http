@@ -1,12 +1,13 @@
 ### get random bestemmia
-GET {{baseURL}}bestemmia
+GET {{url}}
 Accept: application/json
 
 
 ### create bestemmia
-POST {{baseURL}}bestemmia
+POST {{url}}
+Accept: application/json
 Content-Type: application/json
 
 {
-  "text_": {{$random.alphanumeric()}}
+  "bestemmia": "dio {{$random.alphabetic(25)}}"
 }
