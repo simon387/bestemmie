@@ -1,0 +1,12 @@
+### get random bestemmia
+GET {{baseURL}}bestemmia
+Accept: application/json
+
+
+### create bestemmia
+POST {{baseURL}}bestemmia
+Content-Type: application/json
+
+{
+  "text_": {{$random.alphanumeric()}}
+}

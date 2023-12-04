@@ -25,6 +25,6 @@ class Bestemmia
 		$stmt = $this->conn->prepare($query);
 		$stmt->execute();
 
-
+		return $stmt->fetch(PDO::FETCH_ASSOC);
 	}
 }
