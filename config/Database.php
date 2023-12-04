@@ -1,6 +1,6 @@
 <?php
 
-include('config.php');
+include('Config.php');
 
 class Database
 {
