@@ -1,7 +1,7 @@
 <?php
 header('Access-Control-Allow-Origin: *');
 header("Content-Type: application/json; charset=UTF-8");
-header("Access-Control-Allow-Methods: GET, POST, OPTIONS");
+header("Access-Control-Allow-Methods: GET, POST, OPTIONS, DELETE");
 header("Access-Control-Max-Age: 3600");
 header("Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With, Origin, X-Auth-Token");
 
@@ -22,6 +22,15 @@ switch ($_SERVER['REQUEST_METHOD']) {
 		} else {
 			http_response_code(500);
 			echo json_encode(array("response" => "Impossible to create the Bestemmia"));
+		}
+		break;
+	case 'DELETE':
+		if ($bestemmieService->delete($_GET["id"])) {
+			http_response_code(200);
+			echo json_encode(array("response" => "Bestemmia deleted"));
+		} else {
+			http_response_code(500);
+			echo json_encode(array("response" => "Impossible to delete the Bestemmia"));
 		}
 		break;
 	case 'OPTIONS':
