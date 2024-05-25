@@ -11,3 +11,7 @@ Content-Type: application/json
 {
   "bestemmia": "dio {{$random.alphabetic(25)}}"
 }
+
+### delete bestemmia
+DELETE {{url}}?id=2
+Accept: application/json

@@ -1,0 +1,313 @@
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "gli apostoli teletubbies"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "mannaggia ai sandali di cristo"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "madonna apostrofata"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "dio condito"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "porco monir d'un dio porco"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "i santi arrosto"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "jacobbe salumaio"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "san pietro vandalo"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "maria curiosa"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "san francesco assassino"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "san beppe sventrato"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "dio vigile"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "diahane (fiorentino)"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "gli apostoli interisti"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "madonna di legno"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "dio cacciavite sporco di sangue ebreo"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "san marco a fuoco"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "dio musso da corsa"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "dio sbudellato venduto dalla bisteccheria della madonna"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "madonna sventrata dalla chiave de san pietro"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "santa rita s'accascia"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "dio pelato dalla chemio"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "madonna infuocata"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "dio appeso al palo dell'Enel"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "madonna sverginata dal Cristaccio"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "gesù scalzo nella valle dei chiodi"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "dio lampredotto cavalcatore di demoni"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "dio botanico con le emorroidi"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "maria beduina sotterrata"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "putre pio"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "mannaggia la madonna sverginata dai re magi"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "rompicoglioni i patriarchi epilettici"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "belzebù cassiere del bordello mariano di fatima"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "lourdes rosticceria"
+}
+
+###
+POST {{url}}
+Accept: application/json
+Content-Type: application/json
+
+{
+  "bestemmia": "mannaggia i sandali di cristo"
+}

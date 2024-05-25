@@ -36,4 +36,13 @@ class BestemmieService
 
 		return $this->bestemmia->create($data->bestemmia);
 	}
+
+	public function delete($id): bool
+	{
+		if (empty($id)) {
+			return false;
+		}
+
+		return $this->bestemmia->delete($id);
+	}
 }
